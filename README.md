@@ -5,7 +5,7 @@ A SQL-based analysis of ride-booking data — covering successful bookings, canc
 ## 🛠️ Tools Used
 - MySQL
 
-## 📊 What the Analysis Covers
+## 📊 What the Analysis Covers 
 - **10+ business-driven SQL queries and views**
 - Successful bookings vs. cancellations (**customer-initiated vs. driver-initiated**)
 - Reasons behind **incomplete rides**
